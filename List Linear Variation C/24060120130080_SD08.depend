@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1584205420 source:e:\24060120130080_sd08\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636739587 source:e:\24060120130080_sd08\mainlist2.c
+	<stdio.h>
+	"List2.h"
+
+1636355230 e:\24060120130080_sd08\list2.h
+	<stdio.h>
+	<stdlib.h>
+
+1636652823 source:e:\24060120130080_sd08\list2.c
+	"List2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1636652823 source:e:\24060120130080_sd09\list2.c
+	"List2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1636355230 e:\24060120130080_sd09\list2.h
+	<stdio.h>
+	<stdlib.h>
+
+1636739587 source:e:\24060120130080_sd09\mainlist2.c
+	<stdio.h>
+	"List2.h"
+

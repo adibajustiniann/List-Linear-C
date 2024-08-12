@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635737636 source:e:\24060120130080_sd07\mainprimitiflist.c
+	<stdio.h>
+	"primitifList.h"
+
+1635737572 e:\24060120130080_sd07\primitiflist.h
+	<stdio.h>
+	<stdlib.h>
+
+1635737572 source:e:\24060120130080_sd07\primitiflist.c
+	"primitifList.h"
+	<stdio.h>
+	<stdlib.h>
+
